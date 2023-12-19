@@ -1,1 +1,1 @@
-# Power-BI-Databel-Telecom-Porject
+# Power-BI-Databel-Telecom-Project
